@@ -176,6 +176,8 @@
     DECL(lacrosse_breezepro) \
     DECL(somfy_rts) \
     DECL(schrader_SMD3MA4) \
+    DECL(bresser_6in1) \
+    DECL(bresser_7in1) \
     /* Add new decoders here. */
 
 #define DECL(name) extern r_device name;
